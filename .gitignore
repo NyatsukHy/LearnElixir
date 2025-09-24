@@ -1,0 +1,12 @@
+/_build/
+deps/
+erl_crash.dump
+*.ez
+
+# VS Code settings
+.vscode/
+
+# Common editor swap/backup files
+*.swp
+*.swo
+*~
